@@ -1,7 +1,5 @@
 <?php
-namespace Duitku\Vapermata\Helper\Duitku;
-// include_once('ApiRequestor.php');
-use Duitku\Vapermata\Helper\Duitku\Duitku_Vapermata_ApiRequestor;
+include_once('ApiRequestor.php');
 class Duitku_Vapermata_Core {
 
   public static function getRedirectionUrl($baseUrl, $params)

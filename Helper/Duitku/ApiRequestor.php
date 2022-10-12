@@ -1,5 +1,4 @@
 <?php
-namespace Duitku\Vapermata\Helper\Duitku;
 
 class Duitku_Vapermata_ApiRequestor {
 
